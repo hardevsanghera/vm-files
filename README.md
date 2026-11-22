@@ -1,5 +1,5 @@
 <head>
-  <meta name="google-site-verification" content="UQyZVg0_6Ko3VtMC4pJ5wY6moSe959-pdZoFUILRCrM" />
+  <!-- <meta name="google-site-verification" content="UQyZVg0_6Ko3VtMC4pJ5wY6moSe959-pdZoFUILRCrM" /> -->
 </head>
 
 <style>
