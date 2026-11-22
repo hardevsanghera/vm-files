@@ -1,5 +1,4 @@
 <head>
-  <title>gdrive-vm-files-rclone</title>
   <meta name="google-site-verification" content="UQyZVg0_6Ko3VtMC4pJ5wY6moSe959-pdZoFUILRCrM" />
 </head>
 
@@ -21,6 +20,7 @@
     font-weight: 800;
     letter-spacing: -0.02em;
     margin: 0 0 1rem 0;
+    border-bottom: none;
   }
 
   .rclone-hero p {
@@ -54,5 +54,4 @@
   <h1>gdrive-vm-files-rclone</h1>
   <p>The purpose of this App is to allow users to keep Google Drive files in sync with their workstation machine.</p>
   <p>Privacy Policy is here <a class="policy-link" href="privy.html">Privacy Policy</a></p>
-</div>="policy-link" href="privy.html">Privacy Policy</a></p>
 </div>
